@@ -62,7 +62,3 @@ module Blabbr
     end
   end
 end
-
-# post "/api/notifications", .to_json, {
-#   'Content-Type' => "application/json",
-#   'Accept' => 'application/vnd.blabbr.com;version=1'}

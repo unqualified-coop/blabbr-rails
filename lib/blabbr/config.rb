@@ -6,7 +6,7 @@ module Blabbr
     attr_accessor :auth_token
 
     def initialize
-      @host = "http://10.13.105.27:3005"
+      @host = "http://blabbr-dashboard.herokuapp.com"
     end
   end
 end
